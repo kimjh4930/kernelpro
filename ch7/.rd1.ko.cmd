@@ -1,0 +1,1 @@
+cmd_/home/junha/kernel/ch7/rd1.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.38-8-generic/scripts/module-common.lds --build-id  -o /home/junha/kernel/ch7/rd1.ko /home/junha/kernel/ch7/rd1.o /home/junha/kernel/ch7/rd1.mod.o
